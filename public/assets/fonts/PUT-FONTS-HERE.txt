@@ -1,0 +1,8 @@
+NEUZEIT GROTESK - font files go in this folder
+==============================================
+Copy your purchased files here, renamed exactly:
+  NeuzeitGrotesk-Light.woff2      (or .woff / .otf / .ttf)
+  NeuzeitGrotesk-Regular.woff2
+  NeuzeitGrotesk-Bold.woff2
+  NeuzeitGrotesk-Black.woff2
+Only Regular and Bold are essential.
